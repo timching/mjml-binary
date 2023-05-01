@@ -1,0 +1,19 @@
+{
+    "name": "sashko-guz/mjml-binary",
+    "description": "MJML binary files repository for usage without node.js",
+    "license": "ISC",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "SashkoGuz\\MjmlBinary\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sashko Guz",
+            "email": "sashko.guz@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
