@@ -1,6 +1,6 @@
 # MJML Binary
 
-MJML compiled binary php without node.js.
+MJML compiled binary for usage as binary (without node.js).
 Inspired by [GollumSF/mjml-binary](https://github.com/GollumSF/mjml-binary)
 
 ## Installation
