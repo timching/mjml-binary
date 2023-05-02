@@ -3,7 +3,7 @@
   "description": "MJML compiled binary via composer for php without node.js",
   "license": "ISC",
   "scripts": {
-    "build": "node_modules/.bin/pkg node_modules/mjml/bin/mjml -t node18-linux-x64,node18-alpine-x64,node18-macos-x64 -o dist/mjml"
+    "build": "node_modules/.bin/pkg node_modules/mjml/bin/mjml -t node18-linux-x64,node18-alpine-x64,node18-macos-x64,node18-macos-arm64 -o dist/mjml"
   },
   "devDependencies": {
     "mjml": "^4.14.1",
