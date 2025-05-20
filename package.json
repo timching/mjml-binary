@@ -6,7 +6,7 @@
     "build": "node_modules/.bin/pkg node_modules/mjml/bin/mjml -t node18-linux-x64,node18-linux-arm64,node18-alpine-x64,node18-macos-x64,node18-macos-arm64 -o dist/mjml"
   },
   "devDependencies": {
-    "mjml": "^4.14.1",
-    "pkg": "^5.8.1"
+    "@yao-pkg/pkg": "^6.5.1",
+    "mjml": "^4.14.1"
   }
 }
